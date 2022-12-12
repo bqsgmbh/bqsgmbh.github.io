@@ -27,6 +27,19 @@
 
 <body>
 
+<script>
+
+function run() {
+  var password = prompt("Bitte Passwort eingeben:");
+  if (password != "BQS2022") {
+    document.body.innerHTML = "";
+    document.body.innerHTML = "Passwort ist falsch! Bitte die Seite neuladen.";
+  } else {
+    alert("Success");
+  }
+}
+run();
+</script>
 <!-- Header Start -->
 <header class="navigation">
   <div class="header-top ">

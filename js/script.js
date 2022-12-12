@@ -1,13 +1,3 @@
-function run() {
-  var password = prompt("Bitte Passwort eingeben:");
-  if (password != "BQS2022") {
-    document.body.innerHTML = "";
-    document.body.innerHTML = "Passwort ist falsch! Bitte die Seite neuladen.";
-  } else {
-    alert("Success");
-  }
-}
-run();
 (function ($) {
   "use strict";
 

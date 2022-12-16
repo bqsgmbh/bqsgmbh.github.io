@@ -1,0 +1,48 @@
+---
+---
+{% include header.html %}
+<section class="page-title bg-1">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block text-center">
+          <span class="text-white">Wie können Sie uns</span>
+          <h1 class="text-capitalize mb-4 text-lg">Kontaktieren</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="contact-form-wrap section">
+	<div class="container">
+			<div class="col-lg-5 col-sm-12">
+				<div class="contact-content pl-lg-5 mt-5 mt-lg-0">
+					<span class="text-muted">Rund um die Uhr erreichbar</span>
+					<h2 class="mb-5 mt-2">Bei Fragen rufen Sie uns an oder melden sie sich per E-Mail</h2>
+
+					<ul class="address-block list-unstyled">
+						<li>
+							<i class="ti-direction mr-3"></i>{{ site.adresse }},  {{ site.ort }}
+						</li>
+						<li>
+							<i class="ti-email mr-3"></i>E-Mail: {{ site.email }}
+						</li>
+						<li>
+							<i class="ti-mobile mr-3"></i>Telefon: {{ site.telefon }}
+						</li>
+						<li>
+							<i class="ti-printer mr-3"></i>Fax: {{ site.fax }}
+						</li>
+
+					</ul>
+
+				</div>
+		</div>
+	</div>
+</section>
+
+<div class="google-map">
+	<div id="map" data-latitude="51.064420206871496" data-longitude="6.925758469287539" data-marker="images/marker.png" data-marker-name="BQS-GmbH"></div>
+</div>
+{% include footer.html %}

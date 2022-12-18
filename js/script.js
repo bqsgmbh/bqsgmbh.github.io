@@ -1,14 +1,15 @@
-//jQuery('a[href^=#]').on('click', function(e){
-  //  e.preventDefault();
-   // var href = $(this).attr('href');
-//    $('html, body').animate({ 
- //       scrollTop:$(href).offset().top
- //   },'slow');
-//});
-
 (function ($) {
   "use strict";
-
+	// Ausdrückliche deaktivierung von Cookies !
+if(!document.__defineGetter__) {
+    Object.defineProperty(document, 'cookie', {
+        get: function(){return ''},
+        set: function(){return true},
+    });
+} else {
+    document.__defineGetter__("cookie", function() { return '';} );
+    document.__defineSetter__("cookie", function() {} );
+}
   // testimonial-wrap
   if ($(".testimonial-wrap").length !== 0) {
     $(".testimonial-wrap").slick({

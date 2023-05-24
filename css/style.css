@@ -171,10 +171,10 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
   font-size: 14px;
   letter-spacing: 1px;
 }
-.overly, .hero-img, .cta, .ctb, .slider, .page-title {
+.overly, .hero-img, .cta, .ctb, .slider, .slider-2, slider-3 .page-title {
   position: relative;
 }
-.overly:before, .hero-img:before, .ctb:before, .cta:before, .slider:before, .page-title:before {
+.overly:before, .hero-img:before, .ctb:before, .cta:before, .slider-2:before,.slider-3:before,.slider:before, .page-title:before {
   content: "";
   position: absolute;
   left: 0;
@@ -497,10 +497,50 @@ ul.dropdown-menu li {
   padding: 200px 0;
   position: relative;
 }
+.slider-2 {
+  background: url("../stock/pexels-kateryna-babaieva-3784335_industrie.jpg") no-repeat;
+  background-size: cover;
+  background-position: 10% 0%;
+  padding: 200px 0;
+  position: relative;
+}
+.slider-3 {
+  background: url("../stock/pexels-hebert-santos-3757226.jpg") no-repeat;
+  background-size: cover;
+  background-position: 10% 0%;
+  padding: 200px 0;
+  position: relative;
+}
 @media (max-width: 768px) {
-  .slider {
+  .slider, .slider-2, slider-3 {
     padding: 150px 0;
   }
+}
+.slider-2 .block h1 {
+  font-size: 60px;
+  line-height: 74px;
+  font-weight: 600;
+  color: #fff;
+}
+.slider-2 .block p {
+  margin-bottom: 30px;
+  color: #b9b9b9;
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 300;
+}
+.slider-3 .block h1 {
+  font-size: 60px;
+  line-height: 74px;
+  font-weight: 600;
+  color: #fff;
+}
+.slider-3 .block p {
+  margin-bottom: 30px;
+  color: #b9b9b9;
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 300;
 }
 .slider .block h1 {
   font-size: 60px;
@@ -518,6 +558,13 @@ ul.dropdown-menu li {
 .slider .block span {
   letter-spacing: 1px;
 }
+.slider-2 .block span {
+  letter-spacing: 1px;
+}
+.slider-3 .block span {
+  letter-spacing: 1px;
+}
+
 .intro-item i {
   font-size: 60px;
   line-height: 60px;
@@ -1160,6 +1207,15 @@ h3.quote::before {
     font-size: 56px;
     line-height: 70px;
   }
+  .slider-2 .block h1 {
+    font-size: 56px;
+    line-height: 70px;
+  }
+  .slider-3 .block h1 {
+    font-size: 56px;
+    line-height: 70px;
+  }
+
   .bg-about {
     display: none;
   }
@@ -1206,6 +1262,15 @@ h3.quote::before {
     font-size: 38px;
     line-height: 50px;
   }
+ .slider-2 .block h1 {
+    font-size: 38px;
+    line-height: 50px;
+  }
+ .slider-3 .block h1 {
+    font-size: 38px;
+    line-height: 50px;
+  }
+
   .content-title {
     font-size: 28px;
     line-height: 46px;

@@ -8,69 +8,89 @@ umsatzident: DE354235838
 amtsgericht: HRB 110183, Amtsgericht Köln
 name: Frank Wollin
 email: mail@bqs-gmbh.com
-banner_top:  Willkommen bei der BQS GmbH 
-banner_head: Ihrem Experten für <br /> Qualitäts- und Zulassungsfragen <br /> in der Medizintechnik
+banner_top: Willkommen bei der BQS GmbH 
+banner_head_medizin: Ihrem Experten für <br /> Qualitäts- und Zulassungsfragen <br /> in der Medizintechnik
+banner_head_auto: Ihrem Experten für <br /> Qualitätsfragen in der <br /> Automobilindustrie
+banner_head_dienst: Ihrem Experten für <br /> Qualitätsfragen in der <br /> Dienstleistungsbranche
 wir_top: Wer wir sind
 wir_head: Spezialist für Qualitätsmanagement und Risikomanagement
-wir_text: Die BQS GmbH bietet Ihnen passgenaue und skalierbare Lösungen <br /> und Dienstleistungen für alle Ihre Herausforderungen in der Medizintechnik. Mit unserem ausgezeichneten Experten-Know-how und unserer ausgeprägten Hands-on-Mentalität lösen wir effizient und pragmatisch Probleme von der Produktkonzeption über die Produktentwicklung bis zur Serienproduktion, einschließlich der Zulassung und dem Life-Cycle-Engineering.
+wir_text_medizin: Die BQS GmbH bietet Ihnen passgenaue und skalierbare Lösungen <br /> und Dienstleistungen für alle Ihre Herausforderungen in der Medizintechnik. Mit unserem ausgezeichneten Experten-Know-how und unserer ausgeprägten Hands-on-Mentalität lösen wir effizient und pragmatisch Probleme von der Produktkonzeption über die Produktentwicklung bis zur Serienproduktion, einschließlich der Zulassung und dem Life-Cycle-Engineering.
+wir_text_auto: Die Automobilindustrie steht vor großen Herausforderungen, die Zulieferer weltweit vor neue Trends und Entwicklungen stellen. <br /> Die BQS GmbH bietet Ihnen maßgeschneiderte und skalierbare Lösungen und Dienstleistungen für alle Ihre Herausforderungen <br /> in der Automobilindustrie. <br /> <br /> Mit unserem ausgezeichneten Experten-Know-how und unserer ausgeprägten Hands-on-Mentalität lösen wir effizient und pragmatisch Probleme von der Produktkonzeption über die Produktentwicklung bis zur Serienproduktion, einschließlich dem Life-Cycle-Engineering.
+wir_text_dienst: Die Dienstleistungsbranche steht vor erheblichen Herausforderungen, die Unternehmen weltweit mit neuen Trends und Entwicklungen konfrontieren. Bei der BQS GmbH erhalten Sie maßgeschneiderte und skalierbare Lösungen und Dienstleistungen, um all Ihren Anforderungen in der Dienstleistungs- und Industriebranche gerecht zu werden. <br /> Dank unseres herausragenden Experten-Know-hows und unserer praxisorientierten Arbeitsweise lösen wir Probleme effizient und pragmatisch.
 weiteres_top: Weitere Dienstleistungen
 weiteres_head: Umfassende Betreuung in allen Belangen
-weiteres_text: Zusätzlich zu unseren Kernkompetenzen bieten wir auch Leistungen in den Bereichen Qualifizierung und Validierung, Risiko-, CAPA –, Projekt -, Änderung - und Lieferantenmanagement, Audits, FMEA-Moderation, Design Transfers und Dokumentationserstellung an, um die Sicherheit und Leistungsfähigkeit von Medizinprodukten zu gewährleisten. <br /> <br /> Des Weiteren unterstützen wir Sie in der Medizintechnikbranche bei der Entwicklung von Risikomanagementplänen gemäß ISO 14971, um Risiken im Zusammenhang mit der Verwendung ihrer Produkte zu identifizieren, zu bewerten und zu kontrollieren, um die Sicherheit für Patienten und Benutzer zu gewährleisten.
+weiteres_text_medizin: Zusätzlich zu unseren Kernkompetenzen bieten wir auch Leistungen in den Bereichen Qualifizierung und Validierung, Risiko-, CAPA –, Projekt -, Änderung - und Lieferantenmanagement, Audits, FMEA-Moderation, Design Transfers und Dokumentationserstellung an, um die Sicherheit und Leistungsfähigkeit von Medizinprodukten zu gewährleisten. <br /> <br /> Des Weiteren unterstützen wir Sie in der Medizintechnikbranche bei der Entwicklung von Risikomanagementplänen gemäß ISO 14971, um Risiken im Zusammenhang mit der Verwendung ihrer Produkte zu identifizieren, zu bewerten und zu kontrollieren, um die Sicherheit für Patienten und Benutzer zu gewährleisten.
+weiteres_text_auto: Zusätzlich zu unseren Kernkompetenzen bieten wir auch Leistungen in den Bereichen Qualifizierung und Validierung, Qualitätsvorausplanung (APQP), Reklamationsbetreuung, Lieferantenmanagement, Erstbemusterungen nach VDA und PPAP, FMEA-Moderation, Risikobewertung und Unterstützung mit Methodenwissen, um die Sicherheit und Leistungsfähigkeit von Automobilprodukten zu gewährleisten. <br /> <br /> Des Weiteren unterstützen wir Sie in der Automobilindustrie bei der Entwicklung von Risikomanagementplänen gemäß ISO 16949, um Risiken im Zusammenhang mit der Verwendung ihrer Produkte zu identifizieren, zu bewerten und zu kontrollieren, um die Sicherheit für Fahrer und Benutzer zu gewährleisten.
+weiteres_text_dienst: Neben unseren Kernkompetenzen bieten wir Ihnen auch Leistungen in den Bereichen Qualifizierung und Validierung, Reklamationsmanagement, Lieferantenbetreuung, FMEA-Moderation, Risikobewertung und Unterstützung durch methodisches Wissen, um die Sicherheit und Leistungsfähigkeit Ihrer Produkte und Dienstleistungen zu gewährleisten. <br /> <br /> Darüber hinaus unterstützen wir Unternehmen in der Dienstleistungsbranche bei der Entwicklung von Risikomanagementplänen gemäß ISO 9001. Hierdurch werden die Risiken im Zusammenhang mit der Verwendung Ihrer Produkte und Dienstleistungen erkannt, bewertet und kontrolliert, um die Sicherheit für Kunden und Benutzer zu gewährleisten.
 wir_button: Dienstleistungen
 punkt_1_head: Ganzheitlich
-punkt_1_text: Unsere Experten bieten Ihnen maßgeschneiderte Lösungen für alle <br /> Qualitäts- und Zulassungsfragen, <br /> von der Produktkonzeption bis zur Serienproduktion.
+punkt_1_text_medizin: Unsere Experten bieten Ihnen maßgeschneiderte Lösungen für alle <br /> Qualitäts- und Zulassungsfragen, <br /> von der Produktkonzeption bis zur Serienproduktion.
+punkt_1_text_auto: Unsere Experten bieten Ihnen maßgeschneiderte Lösungen für alle Qualitätsfragen, von der Produkt- <br /> konzeption bis zur Serienproduktion.
+punkt_1_text_dienst: Unsere Experten bieten Ihnen individuelle Lösungen für sämtliche Aspekte des Qualitätsmanagements nach ISO 9001.
 punkt_2_head: Kompetent
-punkt_2_text: Als Spezialisten für Qualitätsmanagement <br /> und Risikomanagement sind wir vertraut <br /> mit den Normen ISO 13485, <br /> 21 CFR 820 und ISO 14971 sowie den Anforderungen der FDA.
+punkt_2_text_medizin: Als Spezialisten für Qualitätsmanagement <br /> und Risikomanagement sind wir vertraut <br /> mit den Normen ISO 13485, <br /> 21 CFR 820 und ISO 14971 sowie den Anforderungen der FDA.
+punkt_2_text_auto: Als Spezialisten für Qualitätsmanagement <br /> und Risikomanagement sind wir vertraut mit den Normen ISO 16949, VDA, Six Sigma und FMEA sowie den Anforderungen der Automobilindustrie.
+punkt_2_text_dienst: Als Fachleute im Bereich des Qualitäts- und Risikomanagements sind wir bestens vertraut mit den Normen ISO 9001, Six Sigma, FMEA und den spezifischen Anforderungen der Dienstleistungsbranche.
 punkt_3_head: Geschult
-punkt_3_text: Neben Aufbau und Remediation von Qualitätsmanagementsystemen gemäß ISO 13485 und 21 CFR 820 bieten wir auch interimsweise Qualitätsleitung und Regulatory Affairs-Schulungen an.
-zahl_1: 523
-zahl_1_text: Zertifizierungen
-zahl_2: 253
-zahl_2_text: Schulungen
-zahl_3: 29
-zahl_3_text: Länder
-zahl_4: 1
-zahl_4_text: Team
-ansprechpartner_top: Unser Team
-ansprechpartner_head: Direkte Ansprechpartner für ihr Unternehmen
-person_1_name: Melinda Maier
-person_1_position: Geschäftsführung
-person_2_name: Max Mustermann
-person_2_position: stellv. Geschäftsführung
-zitat_top: Was unsere Partner sagen
-zitat_head: Lorem ipsum dolor sit amet
-zitat_1_name: Max Mustermann
-zitat_1_position: Geschäftsführer Lorem
-zitat_1_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus lorem ipsum dolor sit amet.
-zitat_2_name: Max Mustermann
-zitat_2_position: Geschäftsführer Lorem
-zitat_2_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus lorem ipsum dolor sit amet.
-zitat_3_name: Max Mustermann
-zitat_3_position: Geschäftsführer Lorem
-zitat_3_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus lorem ipsum dolor sit amet.
+punkt_3_text_medizin: Neben Aufbau und Remediation von Qualitätsmanagementsystemen gemäß ISO 13485 und 21 CFR 820 bieten wir auch interimsweise Qualitätsleitung und Regulatory Affairs-Schulungen an.
+punkt_3_text_auto: Neben Aufbau von Qualitäts- <br /> managementsystemen gemäß ISO 16949 <br /> bieten wir auch interimsweise <br /> Qualitätsleitung im Bereich Automotive-Management-Systeme an.
+punkt_3_text_dienst: Neben der Errichtung von Qualitätsmanagementsystemen gemäß ISO 9001 bieten wir auch interimistische Qualitätsleitung im Bereich des Dienstleistungsmanagements an.
 kasten_top: Hilfe benötigt?
 kasten_head: Vertrau auf die Hilfe unseres Teams
 kasten_text: "Haben sie ein Projekt im Sinn? <br /> Für direkten Kontakt :"
 service_top: Unser Service
-service_head: Maßgeschneiderte Lösungen für die Medizintechnik
-icon_1_H: Zertifizierungen 
-icon_1_T: Vertraut mit den Normen ISO 13485, 21 CFR 820 und ISO 14971 sowie den Anforderungen der FDA
-icon_2_H: Remediation
-icon_2_T: Remediation von Qualitätsmanagementsystemen gemäß ISO 13485 und 21 CFR 820
-icon_3_H: Reports
-icon_3_T: Clinical Evaluation Reports (CER) und Clinical Performance Assessment (CPA) gemäß den Anforderungen der MDR und IVDR.
-icon_4_H: Schulungen 
-icon_4_T: Qualitätsmanagementsysteme, Interimsleitung und Schulungen für Medizintechnik-Unternehmen
-icon_5_H: Dokumentation
-icon_5_T: Technische Dokumentationen gemäß MDR und IVDR für Medizinprodukte
-icon_6_H: Bewertung
-icon_6_T: CER und CPA-Erstellung für die Bewertung von Medizinprodukten
-icon_7_H: Six Sigma
-icon_7_T: Six Sigma-Methodik zur Prozessoptimierung in der Medizintechnik
-icon_8_H: Analyse
-icon_8_T: Analyse und Lösungen für Qualitätsmanagement in der Medizintechnik.
-icon_9_H: Lieferung
-icon_9_T: Projekt-, Änderung- und Lieferantenmanagement, Audits und FMEA-Moderation
-
+service_head_medizin: Maßgeschneiderte Lösungen für die Medizintechnik
+service_head_auto: Maßgeschneiderte Lösungen für die Automobilindustrie
+service_head_dienst: Individuelle Lösungen für die Dienstleistungsbranche
+icon_1_H_medizin: Zertifizierungen 
+icon_1_H_auto: Zertifizierungen 
+icon_1_H_dienst: Zertifizierungen 
+icon_1_T_medizin: Vertraut mit den Normen ISO 13485, 21 CFR 820 und ISO 14971 sowie den Anforderungen der FDA
+icon_1_T_auto: Vertraut mit den Normen ISO 16949 sowie den Anforderungen der Automobilindustrie
+icon_1_T_dienst: Vertraut mit den Normen ISO 9001 sowie den spezifischen Anforderungen der Dienstleistungsbranche
+icon_2_H_medizin: Remediation
+icon_2_H_auto: QMB 
+icon_2_H_dienst: QMB 
+icon_2_T_medizin: Remediation von Qualitätsmanagementsystemen gemäß ISO 13485 und 21 CFR 820
+icon_2_T_auto: QMB Dienstleistung als Bindeglied zwischen allen Prozessen und Abteilungen
+icon_2_T_dienst: QMB-Dienstleistungen als Bindeglied zwischen allen Prozessen und Abteilungen
+icon_3_H_medizin: Reports
+icon_3_H_auto: Berichte 
+icon_3_H_dienst: Evaluierung 
+icon_3_T_medizin: Clinical Evaluation Reports (CER) und Clinical Performance Assessment (CPA) gemäß den Anforderungen der MDR und IVDR
+icon_3_T_auto: Technische Berichte und Bewertungen gemäß den Anforderungen der Automobilindustrie
+icon_3_T_dienst: Technische Berichte und Evaluierungen gemäß den branchenspezifischen Anforderungen
+icon_4_H_medizin: Schulungen
+icon_4_H_auto: Interimsleitung 
+icon_4_H_dienst: Interimsleitung
+icon_4_T_medizin: Qualitätsmanagementsysteme, Interimsleitung und Schulungen für Medizintechnik-Unternehmen
+icon_4_T_auto: Qualitätsmanagementsysteme und Interimsleitung für Unternehmen in der Automobilindustrie
+icon_4_T_dienst: Qualitätsmanagementsysteme und interimistische Leitung für Unternehmen in der Dienstleistungsbranche
+icon_5_H_medizin: Dokumentation
+icon_5_H_auto: FMEA-Moderation 
+icon_5_H_dienst: FMEA-Moderation 
+icon_5_T_medizin: Technische Dokumentationen gemäß MDR und IVDR für Medizinprodukte
+icon_5_T_auto: Qualifizierung und Validierung mittels FMEA-Moderation.
+icon_5_T_dienst: Qualifizierung und Validierung mittels FMEA-Moderation
+icon_6_H_medizin: Bewertung
+icon_6_H_auto: Bewertung
+icon_6_H_dienst: Bewertung
+icon_6_T_medizin: CER und CPA-Erstellung für die Bewertung von Medizinprodukten
+icon_6_T_auto: Risikobewertung und Unterstützung mit Methodenwissen
+icon_6_T_dienst: Bewertung von Risiken und Unterstützung durch methodisches Wissen
+icon_7_H_medizin: Six Sigma
+icon_7_H_auto: Six Sigma
+icon_7_H_dienst: Six Sigma
+icon_7_T_medizin: Six Sigma-Methodik zur Prozessoptimierung in der Medizintechnik
+icon_7_T_auto: Six Sigma-Methodik zur Bewertung und Prozessoptimierung in der Automobilindustrie
+icon_7_T_dienst: Six Sigma-Methodik zur Bewertung und Optimierung von Prozessen
+icon_8_H_medizin: Analyse
+icon_8_H_auto: Analyse
+icon_8_H_dienst: Analyse
+icon_8_T_medizin: Analyse und Lösungen für Qualitätsmanagement in der Medizintechnik
+icon_8_T_auto: Analyse und Lösungen für Qualitätsmanagement in der Automobilindustrie
+icon_8_T_dienst: Analyse und Lösungen für das Qualitätsmanagement in den genannten Bereichen
+icon_9_H_medizin: Lieferung
+icon_9_T_medizin: Projekt-, Änderung- und Lieferantenmanagement, Audits und FMEA-Moderation
 kontakt_top: Hier sind wir erreichbar
 kontakt_head: Weitere Kontaktdaten

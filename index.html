@@ -107,33 +107,6 @@
   </div>
 </section>
 <!-- Section Services End -->
-<section class="section cta" id="kontakt" style='background: url("../images/map.jpg") fixed 50% 50%;'>
-  <div class="container" style="z-index: 20">
-    <div class="row">
-      <div class="col-x4-5 col-lg-6"></div>
-      <div class="col-x1-5 col-lg-6">
-        <div class="cta-item bg-white p-5 rounded">
-          <span class="h6 text-color"> {{ site.kontakt_top }}</span>
-          <h2 class="mt-2 mb-4">
-            {{ site.kontakt_head }}
-          </h2>
-          <ul class="address-block list-unstyled">
-            <li>
-              <i class="ti-email mr-3 text-color"></i>E-Mail: {{ site.email }}
-            </li>
-            <li>
-              <i class="ti-mobile mr-3 text-color"></i>Telefon: {{ site.telefon }}
-            </li>
-            <li>
-              <i class="ti-printer mr-3 text-color"></i>Fax: {{ site.fax }}
-            </li>
-            <li>
-              <i class="ti-direction mr-3 text-color"></i>{{ site.adresse }}, {{ site.ort }}
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+
+{% include contact.html %}
 {% include footer.html %}

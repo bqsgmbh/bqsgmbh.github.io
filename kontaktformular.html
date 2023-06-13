@@ -1,0 +1,42 @@
+---
+---
+{% include header2.html %}
+<section class="d-flex bg-gray align-self-stretch">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12">
+        <br /> 
+        <br /> 
+        <br /> 
+        <br /> 
+        <span class="h6 mb-lg-0 text-color">Kontaktformular</span>
+        <h2 class="mt-3 mb-4 position-relative content-title"> Hinterlasse uns eine Nachricht</h2>
+        <br /> 
+<form
+  action="https://bqs-gmbh.000webhostapp.com/send.php"
+  method="POST"
+>
+          <div class="form-group">
+            <label for="EMailValue">E-Mail Adresse</label>
+            <input type="email" class="form-control" id="EMailValue" aria-describedby="emailHelp" name="femail" placeholder="">
+            <small id="emailHelp" class="form-text text-muted">Wir teilen deine E-Mail Adresse mit niemandem.</small>
+          </div>
+          <div class="form-group">
+            <label for="NameValue">Name</label>
+            <input type="name" class="form-control" id="NameValue" placeholder="" name="fname">
+          </div>
+          <div class="form-group">
+            <label for="TextValue">Nachricht</label>
+            <textarea class="form-control" name="ftext" id="TextValue" rows="10"></textarea>
+          </div>
+          <button type="submit" class="mt-5 btn btn-solid-border btn-rounded">Absenden</button>
+          <br /> 
+          <br /> 
+          <br /> 
+          <br /> 
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+{% include footer.html %}

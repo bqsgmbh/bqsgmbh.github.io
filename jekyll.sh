@@ -1,2 +1,2 @@
-sudo apk add nodejs jekyll
+apk add nodejs jekyll
 jekyll serve --livereload
